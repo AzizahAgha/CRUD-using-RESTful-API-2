@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+nav{
+  background-color: black;
+}
+nav ul{
+  list-style: none;
+  display: flex;
+}
+nav ul li{
+  display: flex;
+  padding: 10px;
+}
+.boxx{
+  background-color: #d8f6ff;
+  padding: 20px;
+  margin-top: 4%;
+}
+.box{
+  background-color: #d8f6ff;
+  padding: 20px;
+  margin-top: 4%;
+ 
+  margin-left: 16%;
+  margin-right: 28%;
+
+    
+}
+.boxs{
+  padding-left: 10%;
+    padding-right: 10%;
+    background-color: rgb(178, 218, 255);
+    margin-right: 30%;
+    padding-top: 3%;
+}
+.wrapper{
+  width: 600px;
+  margin: 0 auto;
+}
+.wrap{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.para{
+  color: grey;
+}
+.paragraph{
+  margin-left: 11%;
+}
+table{
+  border-collapse: separate;
+  border-spacing: 10px;
+  
+}
+label{
+  font-size:18px;
+  font-weight:600;
+  
+}
+tr{
+  padding-bottom: 10px;
+}
+.heading{
+  padding:0px 15px ;
+  padding-left: 50px;
+  text-align: left;
+}
+.cancel{
+  margin-left: 30px;
+}
+.buttons{
+  padding-top: 25px; 
+  margin-right: 40px;
+}
+.gfg {
+  border-collapse:separate;
+  border-spacing:0 15px;
+}
+.delete{
+  margin-left: 6px;
+}
+.container{
+  text-align: left;
+}
+.text-center{
+  position: absolute;
+  padding-left: 20%;
+  margin-top: 2%;
+}
+.home{
+  margin-left: 15%;
+   margin-top: 1%; 
+}
+
+.space{
+  margin-top: 80px;
+}
+
+.left{
+  display: flex;
+}
+.error{
+  color: red;
+  text-align: left;
+}
